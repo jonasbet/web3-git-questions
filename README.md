@@ -2,18 +2,20 @@
 
 ##Question 1:
 ###Argue 2 advantages of Git DVCS over Dropbox
-####COPYRIGHT ISSUES last part
+####COPYRIGHT ISSUES FIXED
+####Q1 READY V1.0
 
 ##Question 2:
 ###Compare CLI vs. GUI clients for working with Git
-####Basic structure
+####Half way
 
 ##Question 3:
 ###Review 3 different GUI Git clients
-####EMPTY--
+####Basic structure
 
 ##Extra
 ####gitIgnore DONE
-####copyRight Issue OPEN
-####2 releases PENDING
+####copyRight Issue CLOSE
+####V1.0 READY
+####1 releases PENDING
 ####3q extra branch PENDING
