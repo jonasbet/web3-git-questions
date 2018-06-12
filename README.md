@@ -7,15 +7,14 @@
 
 ##Question 2:
 ###Compare CLI vs. GUI clients for working with Git
-####Half way
+####Q2 READY V2.0
 
 ##Question 3:
 ###Review 3 different GUI Git clients
-####Basic structure
+####half way
 
 ##Extra
 ####gitIgnore DONE
 ####copyRight Issue CLOSE
-####V1.0 READY
-####1 releases PENDING
+####V2.0 READY
 ####3q extra branch PENDING
