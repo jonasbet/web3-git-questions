@@ -11,10 +11,10 @@
 
 ##Question 3:
 ###Review 3 different GUI Git clients
-####half way
+####READY
 
 ##Extra
 ####gitIgnore DONE
 ####copyRight Issue CLOSE
 ####V2.0 READY
-####3q extra branch PENDING
+####READY FOR NEW BRANCH
