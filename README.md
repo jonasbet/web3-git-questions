@@ -13,6 +13,4 @@
 ###Review 3 different GUI Git clients
 ####READY
 
-##Q1 checked
-##Q2 checked
-##Q3 checked
+##Branch2 READY WITH IMAGES
