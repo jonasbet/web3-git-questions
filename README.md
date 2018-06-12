@@ -13,8 +13,4 @@
 ###Review 3 different GUI Git clients
 ####READY
 
-##Extra
-####gitIgnore DONE
-####copyRight Issue CLOSE
-####V2.0 READY
-####READY FOR NEW BRANCH
+##Q1 checked
